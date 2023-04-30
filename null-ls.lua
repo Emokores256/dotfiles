@@ -1,3 +1,5 @@
+-- add this file to your custom/configs directory in your NvChad settings
+
 local null_ls = require "null-ls"
 
 local formatting = null_ls.builtins.formatting
