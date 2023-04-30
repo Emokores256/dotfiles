@@ -1,3 +1,5 @@
+-- custom plugins to be added to your NvChad go here. Add this file to the custom/ directory
+
 local plugins = {
   {
     "nvim-treesitter/nvim-treesitter",
