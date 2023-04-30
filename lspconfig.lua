@@ -1,3 +1,5 @@
+-- these are custom configs for lsp. Add this file in your "custom/configs" directory in your NvChad setup files according to what lsp settings you require
+
 local on_attach = require("plugins.configs.lspconfig").on_attach
 local capabilities = require("plugins.configs.lspconfig").capabilities
 
